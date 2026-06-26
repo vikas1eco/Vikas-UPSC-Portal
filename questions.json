@@ -173,5 +173,275 @@
       "Satyameva Jayate → Mundaka Upanishad",
       "Meaning → 'Truth Alone Triumphs'"
     ]
+  },[
+  {
+    "id": 11,
+    "subject": "Ancient History",
+    "question": "Consider the following statements:\n1. The last Mauryan ruler, Brihadaratha was assassinated by his commander-in-chief, Pushyamitra Sunga.\n2. The last Sunga King, Devabhuti, was assassinated by his Brahmana minister Vasudeva Kanva who usurped the throne.\n3. The last ruler of the Kanva dynasty was deposed by the Andhras.\n\nWhich of these statements is/are correct?",
+    "options": [
+      "1 and 2",
+      "only 2",
+      "only 3",
+      "1, 2 and 3"
+    ],
+    "answer": "D",
+    "explanation": "All statements are correct. Pushyamitra Sunga overthrew the Mauryan empire by assassinating Brihadratha. Devabhuti, the last Sunga ruler, was killed by his minister Vasudeva Kanva. The short-lived Kanva dynasty was ultimately brought down by the Andhra (Satavahana) ruler Simuka.",
+    "memory": [
+      "End of Mauryas → Pushyamitra Sunga (established Sunga dynasty)",
+      "End of Sungas → Vasudeva Kanva (established Kanva dynasty)",
+      "End of Kanvas → Deposed by the Andhras (Satavahanas)"
+    ]
+  },
+  {
+    "id": 12,
+    "subject": "Ancient History",
+    "question": "Match List-I (Ancient site) with List-II (Archaeological finding) and select the correct answer using the code given below the lists:\nList-I (Ancient site): A. Lothal, B. Kalibangan, C. Dholavira, D. Banawali\nList-II (Archaeological finding): 1. Ploughed field, 2. Dockyard, 3. Terracotta replica of a Plough, 4. An inscription comprising ten large-sized signs of the Harappan script\n\nCode (A B C D):",
+    "options": [
+      "1 2 3 4",
+      "2 1 4 3",
+      "1 2 4 3",
+      "2 1 3 4"
+    ],
+    "answer": "B",
+    "explanation": "Lothal matches with Dockyard (2). Kalibangan matches with a Ploughed field (1). Dholavira features the famous large 10-sign signboard inscription (4). Banawali yielded a terracotta replica clay model of a plough (3).",
+    "memory": [
+      "Lothal → Tidal Dockyard",
+      "Kalibangan → Furrowed Ploughed Field",
+      "Dholavira → 10-symbol Signboard Inscription",
+      "Banawali → Terracotta Toy Plough"
+    ]
+  },
+  {
+    "id": 13,
+    "subject": "Ancient History",
+    "question": "Which one of the following animals was not represented on the seals and terracotta art of the Harappan culture?",
+    "options": [
+      "Cow",
+      "Elephant",
+      "Rhinoceros",
+      "Tiger"
+    ],
+    "answer": "A",
+    "explanation": "The Harappan seals extensively depict wild and domesticated animals like rhinoceros, elephant, buffalo, tiger, and humped bull. However, the cow was not represented on Harappan seals or terracotta art; its explicit prominence appears later in Vedic literature.",
+    "memory": [
+      "Seals feature → Rhinoceros, Elephant, Tiger, Buffalo, Unicorn, Goat",
+      "NOT on seals → Cow, Camel, Horse, Lion"
+    ]
+  },
+  {
+    "id": 14,
+    "subject": "Ancient History",
+    "question": "Who among the following presided over the Buddhist Council held during the reign of Kanishka at Kashmir?",
+    "options": [
+      "Parsva",
+      "Nagarjuna",
+      "Sudraka",
+      "Vasumitra"
+    ],
+    "answer": "D",
+    "explanation": "The Fourth Buddhist Council, held in Kashmir under the patronage of Kushan King Kanishka, was presided over by the scholar Vasumitra, with Asvaghosa acting as his deputy leader.",
+    "memory": [
+      "Fourth Council President → Vasumitra",
+      "Vice-President → Asvaghosa"
+    ]
+  },
+  {
+    "id": 15,
+    "subject": "Ancient History",
+    "question": "The Fourth Buddhist Council was held in Kashmir during the reign of which king?",
+    "options": [
+      "Ashoka",
+      "Kalasoka",
+      "Kanishka",
+      "Ajatshatru"
+    ],
+    "answer": "C",
+    "explanation": "The Fourth Buddhist Council was convened in Kashmir (at Kundalvana) around the 1st century CE under the structural patronage of King Kanishka of the Kushan Dynasty.",
+    "memory": [
+      "1st Council → Ajatshatru (Rajgriha)",
+      "2nd Council → Kalasoka (Vaishali)",
+      "3rd Council → Ashoka (Pataliputra)",
+      "4th Council → Kanishka (Kashmir)"
+    ]
+  },
+  {
+    "id": 16,
+    "subject": "Ancient History",
+    "question": "Which one of the following dynasties was ruling over North India at the time of Alexander's invasion?",
+    "options": [
+      "Nanda",
+      "Maurya",
+      "Sunga",
+      "Kanva"
+    ],
+    "answer": "A",
+    "explanation": "When Alexander the Great invaded northwestern India between 327–325 BC, the powerful Nanda Dynasty, led by King Dhana Nanda, was ruling over the expansive Magadhan territories in Northern India.",
+    "memory": [
+      "Alexander's Invasion (327 BC) → Nanda Dynasty (Dhana Nanda)",
+      "Nanda Founder → Mahapadma Nanda"
+    ]
+  },
+  {
+    "id": 17,
+    "subject": "Ancient History",
+    "question": "The following persons came to India at one time or another:\n1. Fa-Hien\n2. I-Tsing\n3. Megasthanes\n4. Hieun-Tsang\n\nThe correct chronological sequence of their visits is:",
+    "options": [
+      "3, 1, 2, 4",
+      "3, 1, 4, 2",
+      "1, 3, 2, 4",
+      "1, 3, 4, 2"
+    ],
+    "answer": "B",
+    "explanation": "The correct sequence is: Megasthenes (Mauryan period, c. 300 BC) → Fa-Hien (Gupta period, c. 400 CE) → Hiuen-Tsang (Harsha's reign, c. 630 CE) → I-Tsing (late 7th century CE, c. 671 CE).",
+    "memory": [
+      "Megasthenes → Chandragupta Maurya (Greek)",
+      "Fa-Hien → Chandragupta II / Vikramaditya (Chinese)",
+      "Hiuen-Tsang → Harsha Vardhana (Chinese)",
+      "I-Tsing → Later Buddhist traveler (Chinese)"
+    ]
+  },
+  {
+    "id": 18,
+    "subject": "Ancient History",
+    "question": "The given map of the Indian subcontinent (with shaded boundaries stretching from Hindukush down to Karnataka) relates to the empire of:",
+    "options": [
+      "Kanishka at the time of his death.",
+      "Samudragupta after the close of his South Indian campaign.",
+      "Ashoka towards the close of his reign.",
+      "Empire of Thaneswar on the eve of Harsha's accession."
+    ],
+    "answer": "C",
+    "explanation": "The shaded map configuration reflects the vast pan-Indian expansion of the Mauryan Empire under Ashoka towards the close of his rule (c. 232 BC), covering territory from Afghanistan down to northern Karnataka, excluding the deep southern tip.",
+    "memory": [
+      "Mauryan Zenith → Ashoka's Empire",
+      "Southern boundary → Ended just above Chola, Pandya, and Chera territories"
+    ]
+  },
+  {
+    "id": 19,
+    "subject": "Ancient History",
+    "question": "What is the correct chronological order in which the following appeared in India?\n1. Gold coins\n2. Punch-marked silver coins\n3. Iron plough\n4. Urban culture\n\nSelect the correct answer using the codes given below:",
+    "options": [
+      "3, 4, 1, 2",
+      "3, 4, 2, 1",
+      "4, 3, 1, 2",
+      "4, 3, 2, 1"
+    ],
+    "answer": "D",
+    "explanation": "The chronological sequence is: 1. Urban culture (Indus Valley Civilization, c. 2500 BC) → 2. Iron plough (Vedic/Later Vedic Period, c. 1000 BC) → 3. Punch-marked silver coins (Mahajanapada period, c. 6th-4th century BC) → 4. Gold coins (Indo-Greeks, c. 200 BC).",
+    "memory": [
+      "First Urbanization → Indus Valley Civilization",
+      "Iron Age → Later Vedic period",
+      "First Coinage → Punch-marked silver coins",
+      "Pure Gold Coins → Introduced by Indo-Greeks"
+    ]
+  },
+  {
+    "id": 20,
+    "subject": "Ancient History",
+    "question": "The river mentioned most in early Vedic literature is:",
+    "options": [
+      "Sindhu",
+      "Shutudri",
+      "Sarasvati",
+      "Ganga"
+    ],
+    "answer": "A",
+    "explanation": "The river Sindhu (Indus) is the most frequently mentioned river in early Rigvedic hymns due to its foundational role in geography. Sarasvati is celebrated as the most sacred or holy river (Naditama).",
+    "memory": [
+      "Most mentioned river → Sindhu (Indus)",
+      "Most sacred river praised → Sarasvati (Naditama)"
+    ]
+  },
+  {
+    "id": 21,
+    "subject": "Ancient History",
+    "question": "In the context of ancient Indian society, which one of the following terms does not belong to the category of the other three?",
+    "options": [
+      "Kula",
+      "Vansha",
+      "Kosa",
+      "Gotra"
+    ],
+    "answer": "C",
+    "explanation": "Kula (family/clan), Vansha (lineage), and Gotra (kinship unit) are all terms directly related to family and social structure classification. Kosa means treasury or wealth of a state, falling into a completely distinct political/economic category.",
+    "memory": [
+      "Social terms → Kula, Vansha, Gotra",
+      "Kosa → State Treasury / wealth store"
+    ]
+  },
+  {
+    "id": 22,
+    "subject": "Ancient History",
+    "question": "Who among the following was a Brahmavadini who composed some hymns of the Vedas?",
+    "options": [
+      "Lopamudra",
+      "Gargi",
+      "Leelavati",
+      "Savitri"
+    ],
+    "answer": "A",
+    "explanation": "Brahmavadini describes women who dedicated themselves to scriptural study and composed Vedic hymns. Lopamudra (wife of Sage Agastya) is explicitly credited with composing hymns within the Rigveda. Gargi was a philosopher in Upanishadic debates, and Leelavati was a much later mathematical text.",
+    "memory": [
+      "Brahmavadini composers → Lopamudra, Ghosha, Vishwawara, Apala",
+      "Gargi → Famous Upanishadic debater with Sage Yajnavalkya"
+    ]
+  },
+  {
+    "id": 23,
+    "subject": "Ancient History",
+    "question": "The name by which Ashoka is referred to in his inscriptions is:",
+    "options": [
+      "Chakravarti",
+      "Dharmadeva",
+      "Dharmakirti",
+      "Priyadarshi"
+    ],
+    "answer": "D",
+    "explanation": "In the vast majority of his rock and pillar edicts, Emperor Ashoka styles himself using the royal titles 'Devanampriya' (Beloved of the Gods) and 'Priyadarshi' (He who regards everyone with affection).",
+    "memory": [
+      "Ashoka Inscriptional titles → Devanampriya & Priyadarshi",
+      "Explicit name 'Ashoka' → Found in specific edicts like Maski and Gurjarra"
+    ]
+  },
+  {
+    "id": 24,
+    "subject": "Ancient History",
+    "question": "The earliest evidence of silver in India is found in the:",
+    "options": [
+      "Harappan culture",
+      "Chalcolithic cultures of western India",
+      "Vedic texts",
+      "Silver Punch-marked coins"
+    ],
+    "answer": "A",
+    "explanation": "The earliest evidence of silver usage in the Indian subcontinent is discovered within the Harappan culture (Indus Valley Civilization), where silver vessels, ornaments, and authentic silver seals have been excavated.",
+    "memory": [
+      "Earliest Silver → Harappan Culture (IVC)",
+      "Vedic texts → Mention metals later as ayas"
+    ]
+  },
+  {
+    "id": 25,
+    "subject": "Ancient History",
+    "question": "Who built the \"Gommateshwara\" statue at Sravanabelagola?",
+    "options": [
+      "Chamundraya",
+      "Krishan-I",
+      "Kumarpala",
+      "Tejpala"
+    ],
+    "answer": "A",
+    "explanation": "The massive monolithic Gommateshwara (Bahubali) statue at Sravanabelagola in Karnataka was built in the 10th century CE by Chamundraya, a prominent minister and commander of the Western Ganga Dynasty.",
+    "memory": [
+      "Gommateshwara Statue → Built by Chamundraya (Western Ganga Minister)",
+      "Location → Sravanabelagola, Karnataka (Major Jain pilgrimage site)"
+
+
+    
+    ]
   }
+  ]
 ]
+
+
