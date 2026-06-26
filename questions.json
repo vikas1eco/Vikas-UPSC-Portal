@@ -2,7 +2,7 @@
   {
     "id": 1,
     "subject": "Ancient History",
-    "question": "With reference to ancient India (600-322 BC), consider the following pairs:\nTerritorial region | River flowing in the region\nI. Asmaka | Godavari\nII. Kamboja | Vipas\nIII. Avanti | Mahanadi\nIV. Kosala | Sarayu\n\nHow many of the pairs given above are correctly matched?",
+    "question": "With reference to ancient India (600–322 BC), how many pairs are correctly matched?\nTerritorial region | River flowing in the region\nI. Asmaka | Godavari\nII. Kamboja | Vipas\nIII. Avanti | Mahanadi\nIV. Kosala | Sarayu",
     "options": [
       "Only one",
       "Only two",
@@ -10,12 +10,12 @@
       "All the four"
     ],
     "answer": "B",
-    "explanation": "Pair I is correct: Asmaka (near Nanded in the Godavari valley) is located on the banks of the Godavari river. Pair II is incorrect: The main river flowing through the Kamboja region is the Jhelum (Vitasta), not Vipas. Pair III is incorrect: Avanti was located in the Malwa region of central India; the Mahanadi river does not flow through it. Pair IV is correct: Sarayu was the principal river of the Kosala region.",
+    "explanation": "Asmaka–Godavari and Kosala–Sarayu are correct. Kamboja was associated with Vitasta (Jhelum), and Avanti with the Malwa region.",
     "memory": [
-      "Asmaka → Godavari River",
-      "Kamboja → Jhelum (Vitasta) River",
-      "Avanti → Malwa Region (Central India)",
-      "Kosala → Sarayu River"
+      "Asmaka → Godavari",
+      "Kamboja → Vitasta (Jhelum)",
+      "Avanti → Malwa",
+      "Kosala → Sarayu"
     ]
   },
   {
@@ -173,7 +173,7 @@
       "Satyameva Jayate → Mundaka Upanishad",
       "Meaning → 'Truth Alone Triumphs'"
     ]
-  },[
+  },
   {
     "id": 11,
     "subject": "Ancient History",
@@ -287,6 +287,137 @@
     "question": "The following persons came to India at one time or another:\n1. Fa-Hien\n2. I-Tsing\n3. Megasthanes\n4. Hieun-Tsang\n\nThe correct chronological sequence of their visits is:",
     "options": [
       "3, 1, 2, 4",
+      "3, 1, 4, 2",
+      "1, 3, 2, 4",
+      "1, 3, 4, 2"
+    ],
+    "answer": "B",
+    "explanation": "The correct sequence is: Megasthenes (Mauryan period, c. 300 BC) → Fa-Hien (Gupta period, c. 400 CE) → Hiuen-Tsang (Harsha's reign, c. 630 CE) → I-Tsing (late 7th century CE, c. 671 CE).",
+    "memory": [
+      "Megasthenes → Chandragupta Maurya (Greek)",
+      "Fa-Hien → Chandragupta II / Vikramaditya (Chinese)",
+      "Hiuen-Tsang → Harsha Vardhana (Chinese)",
+      "I-Tsing → Later Buddhist traveler (Chinese)"
+    ]
+  },
+  {
+    "id": 18,
+    "subject": "Ancient History",
+    "question": "The given map of the Indian subcontinent (with shaded boundaries stretching from Hindukush down to Karnataka) relates to the empire of:",
+    "options": [
+      "Kanishka at the time of his death.",
+      "Samudragupta after the close of his South Indian campaign.",
+      "Ashoka towards the close of his reign.",
+      "Empire of Thaneswar on the eve of Harsha's accession."
+    ],
+    "answer": "C",
+    "explanation": "The shaded map configuration reflects the vast pan-Indian expansion of the Mauryan Empire under Ashoka towards the close of his rule (c. 232 BC), covering territory from Afghanistan down to northern Karnataka, excluding the deep southern tip.",
+    "memory": [
+      "Mauryan Zenith → Ashoka's Empire",
+      "Southern boundary → Ended just above Chola, Pandya, and Chera territories"
+    ]
+  },
+  {
+    "id": 19,
+    "subject": "Ancient History",
+    "question": "What is the correct chronological order in which the following appeared in India?\n1. Gold coins\n2. Punch-marked silver coins\n3. Iron plough\n4. Urban culture\n\nSelect the correct answer using the codes given below:",
+    "options": [
+      "3, 4, 1, 2",
+      "3, 4, 2, 1",
+      "4, 3, 1, 2",
+      "4, 3, 2, 1"
+    ],
+    "answer": "D",
+    "explanation": "The chronological sequence is: 1. Urban culture (Indus Valley Civilization, c. 2500 BC) → 2. Iron plough (Vedic/Later Vedic Period, c. 1000 BC) → 3. Punch-marked silver coins (Mahajanapada period, c. 6th-4th century BC) → 4. Gold coins (Indo-Greeks, c. 200 BC).",
+    "memory": [
+      "First Urbanization → Indus Valley Civilization",
+      "Iron Age → Later Vedic period",
+      "First Coinage → Punch-marked silver coins",
+      "Pure Gold Coins → Introduced by Indo-Greeks"
+    ]
+  },
+  {
+    "id": 20,
+    "subject": "Ancient History",
+    "question": "The river mentioned most in early Vedic literature is:",
+    "options": [
+      "Sindhu",
+      "Shutudri",
+      "Sarasvati",
+      "Ganga"
+    ],
+    "answer": "A",
+    "explanation": "The river Sindhu (Indus) is the most frequently mentioned river in early Rigvedic hymns due to its foundational role in geography. Sarasvati is celebrated as the most sacred or holy river (Naditama).",
+    "memory": [
+      "Most mentioned river → Sindhu (Indus)",
+      "Most sacred river praised → Sarasvati (Naditama)"
+    ]
+  },
+  {
+    "id": 21,
+    "subject": "Ancient History",
+    "question": "In the context of ancient Indian society, which one of the following terms does not belong to the category of the other three?",
+    "options": [
+      "Kula",
+      "Vansha",
+      "Kosa",
+      "Gotra"
+    ],
+    "answer": "C",
+    "explanation": "Kula (family/clan), Vansha (lineage), and Gotra (kinship unit) are all terms directly related to family and social structure classification. Kosa means treasury or wealth of a state, falling into a completely distinct political/economic category.",
+    "memory": [
+      "Social terms → Kula, Vansha, Gotra",
+      "Kosa → State Treasury / wealth store"
+    ]
+  },
+  {
+    "id": 22,
+    "subject": "Ancient History",
+    "question": "Who among the following was a Brahmavadini who composed some hymns of the Vedas?",
+    "options": [
+      "Lopamudra",
+      "Gargi",
+      "Leelavati",
+      "Savitri"
+    ],
+    "answer": "A",
+    "explanation": "Brahmavadini describes women who dedicated themselves to scriptural study and composed Vedic hymns. Lopamudra (wife of Sage Agastya) is explicitly credited with composing hymns within the Rigveda. Gargi was a philosopher in Upanishadic debates, and Leelavati was a much later mathematical text.",
+    "memory": [
+      "Brahmavadini composers → Lopamudra, Ghosha, Vishwawara, Apala",
+      "Gargi → Famous Upanishadic debater with Sage Yajnavalkya"
+    ]
+  },
+  {
+    "id": 23,
+    "subject": "Ancient History",
+    "question": "The name by which Ashoka is referred to in his inscriptions is:",
+    "options": [
+      "Chakravarti",
+      "Dharmadeva",
+      "Dharmakirti",
+      "Priyadarshi"
+    ],
+    "answer": "D",
+    "explanation": "In the vast majority of his rock and pillar edicts, Emperor Ashoka styles himself using the royal titles 'Devanampriya' (Beloved of the Gods) and 'Priyadarshi' (He who regards everyone with affection).",
+    "memory": [
+      "Ashoka Inscriptional titles → Devanampriya & Priyadarshi",
+      "Explicit name 'Ashoka' → Found in specific edicts like Maski and Gurjarra"
+    ]
+  },
+  {
+    "id": 24,
+    "subject": "Ancient History",
+    "question": "The earliest evidence of silver in India is found in the:",
+    "options": [
+      "Harappan culture",
+      "Chalcolithic cultures of western India",
+      "Vedic texts",
+      "Silver Punch-marked coins"
+    ],
+    "answer": "A",
+    "explanation": "The earliest evidence of silver usage in the Indian subcontinent is discovered within the Harappan culture (Indus Valley Civilization), where silver vessels, ornaments, and authentic silver seals have been excavated.",
+    "memory": [
+      "Earliest Silver → Harappan      "3, 1, 2, 4",
       "3, 1, 4, 2",
       "1, 3, 2, 4",
       "1, 3, 4, 2"
