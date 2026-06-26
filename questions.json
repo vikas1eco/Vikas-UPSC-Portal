@@ -1,1 +1,20 @@
-[{"id":1,"subject":"Ancient History","question":"With reference to ancient India (600–322 BC), how many pairs are correctly matched?","options":["Only one","Only two","Only three","All the four"],"answer":"B","explanation":"Asmaka–Godavari and Kosala–Sarayu are correct. Kamboja was associated with Vitasta (Jhelum), and Avanti with the Malwa region.","memory":["Asmaka → Godavari","Kamboja → Vitasta (Jhelum)","Avanti → Malwa","Kosala → Sarayu"]}]
+[{"id":1,"subject":"Ancient History","question":"With reference to ancient India (600–322 BC), how many pairs are correctly matched?","options":["Only one","Only two","Only three","All the four"],"answer":"B","explanation":"Asmaka–Godavari and Kosala–Sarayu are correct. Kamboja was associated with Vitasta (Jhelum), and Avanti with the Malwa region.","memory":["Asmaka → Godavari","Kamboja → Vitasta (Jhelum)","Avanti → Malwa","Kosala → Sarayu"]},{
+"id":2,
+"subject":"Ancient History",
+"question":"Ashokan inscriptions suggest that the 'Pradeshika', 'Rajuka' and 'Yukta' were important officers at the",
+"options":[
+"Village-level administration",
+"District-level administration",
+"Provincial administration",
+"Level of the central administration"
+],
+"answer":"B",
+"explanation":"Pradeshika, Rajuka and Yukta were important district-level officers during Ashoka's reign. Pradeshika supervised the district, Rajuka performed administrative, judicial and revenue functions similar to a modern District Collector, while Yukta assisted in accounts and secretarial work. The Third Rock Edict mentions these officers and their inspection tours every five years for administration and propagation of Dhamma.",
+"memory":[
+"Pradeshika → District head",
+"Rajuka → Collector-like officer",
+"Yukta → Accounts & Secretariat",
+"Third Rock Edict → Inspection every 5 years"
+]
+}  
+]
