@@ -1,20 +1,177 @@
-[{"id":1,"subject":"Ancient History","question":"With reference to ancient India (600–322 BC), how many pairs are correctly matched?","options":["Only one","Only two","Only three","All the four"],"answer":"B","explanation":"Asmaka–Godavari and Kosala–Sarayu are correct. Kamboja was associated with Vitasta (Jhelum), and Avanti with the Malwa region.","memory":["Asmaka → Godavari","Kamboja → Vitasta (Jhelum)","Avanti → Malwa","Kosala → Sarayu"]},{
-"id":2,
-"subject":"Ancient History",
-"question":"Ashokan inscriptions suggest that the 'Pradeshika', 'Rajuka' and 'Yukta' were important officers at the",
-"options":[
-"Village-level administration",
-"District-level administration",
-"Provincial administration",
-"Level of the central administration"
-],
-"answer":"B",
-"explanation":"Pradeshika, Rajuka and Yukta were important district-level officers during Ashoka's reign. Pradeshika supervised the district, Rajuka performed administrative, judicial and revenue functions similar to a modern District Collector, while Yukta assisted in accounts and secretarial work. The Third Rock Edict mentions these officers and their inspection tours every five years for administration and propagation of Dhamma.",
-"memory":[
-"Pradeshika → District head",
-"Rajuka → Collector-like officer",
-"Yukta → Accounts & Secretariat",
-"Third Rock Edict → Inspection every 5 years"
-]
-}  
+[
+  {
+    "id": 1,
+    "subject": "Ancient History",
+    "question": "With reference to ancient India (600-322 BC), consider the following pairs:\nTerritorial region | River flowing in the region\nI. Asmaka | Godavari\nII. Kamboja | Vipas\nIII. Avanti | Mahanadi\nIV. Kosala | Sarayu\n\nHow many of the pairs given above are correctly matched?",
+    "options": [
+      "Only one",
+      "Only two",
+      "Only three",
+      "All the four"
+    ],
+    "answer": "B",
+    "explanation": "Pair I is correct: Asmaka (near Nanded in the Godavari valley) is located on the banks of the Godavari river. Pair II is incorrect: The main river flowing through the Kamboja region is the Jhelum (Vitasta), not Vipas. Pair III is incorrect: Avanti was located in the Malwa region of central India; the Mahanadi river does not flow through it. Pair IV is correct: Sarayu was the principal river of the Kosala region.",
+    "memory": [
+      "Asmaka → Godavari River",
+      "Kamboja → Jhelum (Vitasta) River",
+      "Avanti → Malwa Region (Central India)",
+      "Kosala → Sarayu River"
+    ]
+  },
+  {
+    "id": 2,
+    "subject": "Ancient History",
+    "question": "Ashokan inscriptions suggest that the 'Pradeshika', 'Rajuka' and 'Yukta' were important officers at the",
+    "options": [
+      "village-level administration",
+      "district-level administration",
+      "provincial administration",
+      "level of the central administration"
+    ],
+    "answer": "B",
+    "explanation": "At the district level, the Mauryan administrative officials listed were the Pradeshika, Rajuka, and Yukta. The Pradeshika was the overall in-charge of the district. The Rajukas managed local governance, taxation, and land survey, functioning similarly to modern collectors. The Yukta was a junior officer providing secretarial and accounting assistance.",
+    "memory": [
+      "Pradeshika → Overall district head",
+      "Rajuka → Revenue, survey, and justice (like modern Collectors)",
+      "Yukta → Subordinate clerk/accountant"
+    ]
+  },
+  {
+    "id": 3,
+    "subject": "Ancient History",
+    "question": "Which one of the following statements about Sangam literature in ancient South India is correct?",
+    "options": [
+      "Sangam poems are devoid of any reference to material culture.",
+      "The social classification of Varna was known to Sangam poets.",
+      "Sangam poems have no reference to warrior ethic.",
+      "Sangam literature refers to magical forces as irrational."
+    ],
+    "answer": "B",
+    "explanation": "The social classification of varna was known to Sangam poets, with mentions of Arashar (kings), Vaishiyar (traders), Velalar (farmers), and Brahmanas. However, the four-fold varna classification and the jati system had little real application or structure in ancient Tamil society at that time.",
+    "memory": [
+      "Varna concept known → But minimal application in early Tamil society",
+      "Puram poems → Explicitly deal with war and warrior ethics",
+      "Ananku → Sacred/magical forces believed to inhabit objects"
+    ]
+  },
+  {
+    "id": 4,
+    "subject": "Ancient History",
+    "question": "Who among the following rulers advised his subjects through this inscription?\n\"Whosoever praises his religious sect or blames other sects out of excessive devotion to his own sect, with the view of glorifying his own sect, he rather injures his own sect very severely.\"",
+    "options": [
+      "Ashoka",
+      "Samudragupta",
+      "Harshavardhana",
+      "Krishna Deva Raya"
+    ],
+    "answer": "A",
+    "explanation": "This famous quotation belongs to Emperor Ashoka's Major Rock Edict XII. In this edict, Ashoka advocates for religious tolerance, honoring other sects, and avoiding the denigration of others' faiths out of blind attachment to one's own.",
+    "memory": [
+      "Major Rock Edict XII → Religious tolerance and harmony",
+      "Devanampriya Priyadarsi → Beloved of the Gods (Ashoka's title)"
+    ]
+  },
+  {
+    "id": 5,
+    "subject": "Ancient History",
+    "question": "Which one of the following is not a Harappan site?",
+    "options": [
+      "Chanhudaro",
+      "Kot Diji",
+      "Sohgaura",
+      "Desalpur"
+    ],
+    "answer": "C",
+    "explanation": "Sohgaura is not a Harappan site. It is a village located on the banks of the Rapti River in Gorakhpur District, Uttar Pradesh, famous for a Mauryan-era copper-plate inscription detailing famine relief efforts. Chanhudaro, Kot Diji, and Desalpur are well-documented Indus Valley Civilization sites.",
+    "memory": [
+      "Sohgaura → Mauryan copper-plate (Famine relief)",
+      "Chanhudaro → Bead-making factory hub",
+      "Kot Diji → Pre-Harappan/Early Harappan site"
+    ]
+  },
+  {
+    "id": 6,
+    "subject": "Ancient History",
+    "question": "With reference to the difference between the culture of Rigvedic Aryans and Indus Valley people, which of the following statements is/are correct?\n1. Rigvedic Aryans used the coat of mail and helmet in warfare whereas the people of Indus Valley Civilization did not leave any evidence of using them.\n2. Rigvedic Aryans knew gold, silver and copper whereas Indus Valley people knew only copper and iron.\n3. Rigvedic Aryans had domesticated the horse whereas there is no evidence of Indus Valley people having been aware of this animal.\n\nSelect the correct answer using the code given below:",
+    "options": [
+      "1 only",
+      "2 and 3 only",
+      "1 and 3 only",
+      "1, 2 and 3"
+    ],
+    "answer": "C",
+    "explanation": "Statement 1 is correct: Rig Vedic texts describe coats of mail (varma) and helmets. IVC sites lack defensive military armor remnants. Statement 2 is incorrect: IVC people did not know iron; iron was discovered during the later Vedic period. Statement 3 is correct: Rigvedic culture was heavily centered around horses and chariots, whereas standard IVC layers offer clear proof of regular awareness/domestication of horses.",
+    "memory": [
+      "IVC metals → Gold, silver, copper, bronze (No Iron)",
+      "Vedic warfare → Helmets, armor, and horse-drawn chariots"
+    ]
+  },
+  {
+    "id": 7,
+    "subject": "Ancient History",
+    "question": "Which of the following characterizes / characterize the people of Indus Civilization?\n1. They possessed great palaces and temples.\n2. They worshipped both male and female deities.\n3. They employed horse-drawn chariots in warfare.\n\nSelect the correct statement/statements using the codes given below:",
+    "options": [
+      "1 and 2 only",
+      "2 only",
+      "1, 2 and 3",
+      "None of the above"
+    ],
+    "answer": "B",
+    "explanation": "Statement 1 is incorrect: No structures have been positively identified as temples or grand residential palaces in IVC. Statement 2 is correct: They worshipped female figurines (Mother Goddess) and male figures (Pashupati/Proto-Shiva seal). Statement 3 is incorrect: Horse-drawn warfare chariots belong to the Vedic era, not the Harappan civilization.",
+    "memory": [
+      "IVC Places of Worship → No formal temples found",
+      "Deities → Pashupati Seal (Male) & Mother Goddess figurines (Female)"
+    ]
+  },
+  {
+    "id": 8,
+    "subject": "Ancient History",
+    "question": "Regarding the Indus Valley Civilization, consider the following statements:\n1. It was predominantly a secular civilization and the religious element, though present, did not dominate the scene.\n2. During this period, cotton was used for manufacturing textiles in India.\n\nWhich of the statements given above is/are correct?",
+    "options": [
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
+    ],
+    "answer": "C",
+    "explanation": "Both statements are correct. The IVC was a predominantly secular trade-based civilization where religious practice existed but did not form a dominant theological state structure. Furthermore, Harappans were pioneers in cultivating cotton and spinning textiles, with structural impressions found at sites like Mehrgarh and Mohenjo-daro.",
+    "memory": [
+      "Secular nature → Religion present but did not govern state structures",
+      "Cotton textiles → Earliest cultivation worldwide traced to Indus Valley"
+    ]
+  },
+  {
+    "id": 9,
+    "subject": "Ancient History",
+    "question": "The 'Dharma' and 'Rita' depict a central idea of ancient Vedic civilization of India. In this context, consider the following statements:\n1. Dharma was a conception of obligations and of the discharge of one's duties to oneself and to others.\n2. Rita was the fundamental moral law governing the functioning of the universe and all it contained.\n\nWhich of the statements given above is/are correct?",
+    "options": [
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
+    ],
+    "answer": "C",
+    "explanation": "Both statements are correct. In Vedic thought, Dharma refers to actions, duties, and personal moral obligations that keep human life in proper alignment. Rita represents the macro cosmic, structural, physical, and moral order that keeps the entire cosmos running accurately.",
+    "memory": [
+      "Dharma → Personal, societal, and moral duties",
+      "Rita → Cosmic law and cosmic moral balance"
+    ]
+  },
+  {
+    "id": 10,
+    "subject": "Ancient History",
+    "question": "From where was the national motto word 'Satyameva Jayate' taken?",
+    "options": [
+      "Manusmriti",
+      "Bhagawadgita",
+      "Rig Veda",
+      "Mundaka Upanishad"
+    ],
+    "answer": "D",
+    "explanation": "The motto 'Satyameva Jayate' (Truth Alone Triumphs) is inscribed in Devanagari script below the state emblem. It is extracted from a well-known philosophical mantra in the Mundaka Upanishad.",
+    "memory": [
+      "Satyameva Jayate → Mundaka Upanishad",
+      "Meaning → 'Truth Alone Triumphs'"
+    ]
+  }
 ]
